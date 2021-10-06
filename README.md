@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm HUijungYoon</h1>
+<h1 align="center">안녕하세요 윤희중입니다.</h1>
 <h3 align="center">프론트앤드를 애증하는 개발자</h3>
 
 - 🔭 I'm Currently Working on [아임유어박스](https://www.imyourbox.com)
