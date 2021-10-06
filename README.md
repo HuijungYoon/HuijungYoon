@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://huijungyoon.github.io/Portfolio/](https://huijungyoon.github.io/Portfolio/)
 
-- 📝 I regularly write articles on [HuijungYoon.github.io](HuijungYoon.github.io)
+- 📝 I regularly write articles on [https://huijungyoon.github.io/](https://huijungyoon.github.io/)
 
 - 📫 How to reach me **markup3604@gmail.com**
 
